@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>New!!!!!</p>
+        <p>Changed on feature branch</p>
         <p>
           Someone edited <code>src/App.js</code> and saved to reload.
         </p>
