@@ -1,5 +1,7 @@
 sudo: required
-language: generic
+
+language: minimal
+
 services:
   - docker # travis will install docker
 
