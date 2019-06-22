@@ -4,4 +4,4 @@ services:
   - docker # travis will install docker
 
 before_install:
-  - docker build -t kerys/docker-react-dev -f Dockerfile.dev .
+- docker build -t kerys/docker-react-dev -f Dockerfile.dev .
